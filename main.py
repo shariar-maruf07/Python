@@ -1,2 +1,2 @@
-//first python program
-print("This is shariar Habib Maruf")
+# first program
+print("This is shariar Habib Maruf") 
